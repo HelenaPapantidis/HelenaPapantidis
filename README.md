@@ -15,7 +15,7 @@ QA Engineer with experience in manual, automated, and API testing using tools li
 **Training and Certifications:**
 🎓 I’ve completed a comprehensive Manual and Automated Testing course through OIK Poslovna Savršenost Belgrade, which deepened my understanding of testing principles and strategies.
 
-📚 Additionally, I have taken various Udemy courses, including ones focused on Manual Testing and Selenium and Plazwright, which enhanced my ability to design and execute automated test scripts efficiently.
+📚 Additionally, I have taken various Udemy courses, including ones focused on Manual Testing and Selenium and Playwright, which enhanced my ability to design and execute automated test scripts efficiently.
 
 **What I’m Currently Learning:**
 🌱 I am currently expanding my knowledge in advanced testing techniques, exploring continuous integration tools like Jenkins, and delving deeper into AI-driven test automation tools like Testim.io and Mabl.
