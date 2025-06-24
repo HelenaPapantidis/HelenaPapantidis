@@ -1,6 +1,6 @@
 ## Hi there I'm Helena Papantidis 👋 Welcome to my profile!
 
-QA Engineer with experience in manual, automated, and API testing using tools like Selenium, Java, TestNG, Postman, and SQL. Skilled in using bug tracking systems like Jira and TestRail to ensure smooth functionality and user-friendly performance. Focused on teamwork and finding practical solutions to deliver reliable and high-quality results. I may not have started my career in quality assurance, but I quickly found my passion here—QA is about understanding the bigger picture, improving processes, and ensuring seamless user experiences. Now, I’m on a mission to grow my skills and bring a detail-oriented, proactive approach to every project.
+QA Engineer with experience in manual, automated, and API testing using tools like Selenium Java TestNG, WDIO, Cypress, API Postman. Skilled in using bug tracking systems like Jira and TestRail to ensure smooth functionality and user-friendly performance. Focused on teamwork and finding practical solutions to deliver reliable and high-quality results. I may not have started my career in quality assurance, but I quickly found my passion here—QA is about understanding the bigger picture, improving processes, and ensuring seamless user experiences. Now, I’m on a mission to grow my skills and bring a detail-oriented, proactive approach to every project.
 
 **My Experience and Skills:**
 
@@ -13,7 +13,7 @@ QA Engineer with experience in manual, automated, and API testing using tools li
 📊 **SQL Testing:** I also utilized SQL for database verification, writing and running queries to ensure that data integrity was maintained throughout different operations in the application.
 
 **Training and Certifications:**
-🎓 I’ve completed a comprehensive Manual and Automated Testing course through OIK Poslovna Savršenost Belgrade, which deepened my understanding of testing principles and strategies.
+🎓 I’ve completed a comprehensive Manual and Automated Testing course through OIK Poslovna Savršenost, Belgrade, which deepened my understanding of core testing principles, methodologies, and strategies. Additionally, I hold the ISTQB Foundation Level (CTFL) certification, demonstrating my knowledge of international testing standards and best practices.
 
 📚 Additionally, I have taken various Udemy courses, including ones focused on Manual Testing and Selenium and Playwright, which enhanced my ability to design and execute automated test scripts efficiently.
 
