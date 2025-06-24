@@ -6,7 +6,7 @@ QA Engineer with experience in manual, automated, and API testing using tools li
 
 **Manual Testing:** I have hands-on experience in manual testing, where I created test cases and designed test scenarios for both web and mobile applications. My focus was on user flows such as registration, login, and ticket reservation on the SrbijaVoz and Benefiti.rs application. I identified bugs, documented issues, and reported them clearly using tools like Jira and Trello.
 
-💻 **Automated Testing**: With Selenium and Java, I built an automated testing framework for repetitive tasks, reducing testing time and improving test accuracy. I implemented test cases to verify functionalities and ensure high-quality code.
+💻 **Automated Testing:** Developed and maintained robust automated testing frameworks using Selenium with Java, as well as WebdriverIO and Cypress with JavaScript. Created comprehensive end-to-end and regression test suites to validate key functionalities and ensure application stability.
 
 🔗 **API Testing:** I used Postman to validate the application’s back-end, performing API tests to ensure that all requests and responses were correct. This process helped me ensure that the server-side operations worked seamlessly with the front-end.
 
